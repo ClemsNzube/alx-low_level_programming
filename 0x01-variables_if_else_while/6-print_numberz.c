@@ -1,8 +1,7 @@
 #include <stdio.h>
-
 /**
  * main - Entry Point
- * Description: Output numbers 0 - 9
+ * Description: Output numbers using putchar
  * Return: 0
  */
 int main(void)
@@ -11,9 +10,9 @@ int main(void)
 
 	while (i < 10)
 	{
-		printf ("%d", i);
+		putchar(i + 0);
 		i++;
 	}
-	printf ("\n");
+	putchar('\n');
 	return (0);
 }
