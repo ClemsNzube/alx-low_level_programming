@@ -9,7 +9,7 @@
  */
 
 
- intmain(void) 
+ int main(void) 
  { 
          int n; 
   
