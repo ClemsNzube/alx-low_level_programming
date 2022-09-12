@@ -5,12 +5,15 @@
  * Description: A program that prints alphabet in lowercase
  * Return: 0
  */
+
 int main(void)
 {
-	int c='a';
+	int c = 'a';
+	
 	while (c <= 'z')
 	{
 		putchar (c);
+		
 	}
 	putchar ('\n');	
 	return (0);
