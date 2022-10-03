@@ -4,7 +4,7 @@
 A library is a file containing several object files, that can be used as a single entity in a linking phase of a program. 
 
 <h4>Task 0:</h4>
-Create the static library <pre>libmy.a</pre> containing all the functions listed below:
+Create the static library libmy.a containing all the functions listed below:
 <pre>
 int _putchar(char c);
 int _islower(int c);
@@ -29,4 +29,4 @@ char *_strstr(char *haystack, char *needle);
 </pre>
 
 <h4>Task 1:</h4>
-Create a script called<pre> create_static_lib.sh</pre> that creates a static library called <pre>liball.a</pre> from all the<pre> .c</pre> files that are in the current directory.
+Create a script called create_static_lib.sh that creates a static library called liball.a from all the .c files that are in the current directory.
