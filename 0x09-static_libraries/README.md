@@ -1,7 +1,7 @@
 <h1>C - Static Libraries</h1>
 
-<b>What is a library</b>
-A library is a file containing several object files, that can be used as a single entity in a linking phase of a program. 
+<b>What is a library?</b>
+<p>A library is a file containing several object files, that can be used as a single entity in a linking phase of a program. </p>
 
 <h4>Task 0:</h4>
 Create the static library libmy.a containing all the functions listed below:
