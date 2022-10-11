@@ -1,8 +1,8 @@
 <h1>C - Preprocessor</h1>
 
 <h4>Task 0:</h4><a href="https://github.com/ClemsNzube/alx-low_level_programming/blob/master/0x0D-preprocessor/0-object_like_macro.h">0-object_like_macro.h</a>
-Create a header file that defines a macro named SIZE as an abbreviation for the token
-
+<p>Create a header file that defines a macro named SIZE as an abbreviation for the token
+</p>
 <pre>julien@ubuntu:~/0x0c. macro, structures$ cat 0-main.c
 #include "0-object_like_macro.h"
 #include "0-object_like_macro.h"
@@ -27,6 +27,7 @@ julien@ubuntu:~/0x0c. macro, structures$ ./a
 julien@ubuntu:~/0x0c. macro, structures$ </pre>
 
 <h4>Task 1:</h4>
+<p><a href="https://github.com/ClemsNzube/alx-low_level_programming/blob/master/0x0D-preprocessor/1-pi.h">1-pi.h</a></p>
 Create a header file that defines a macro named PI as an abbreviation for the token 3.14159265359.
 
 <pre>julien@ubuntu:~/0x0c. macro, structures$ cat 1-main.c
